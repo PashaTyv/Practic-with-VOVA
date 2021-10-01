@@ -13,3 +13,11 @@ body {
   margin: 0 auto;
   height: 100%;
 }
+
+.default{
+width: 150px;
+height: 32px;
+color: white;
+background: #111B47;
+border-radius: 2px;
+}

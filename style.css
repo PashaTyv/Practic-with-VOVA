@@ -5,7 +5,7 @@
 
 .about-company {
   flex-direction: row;
-  padding-top: 160px;
+  padding-top: 200px;
   width: 49%;
 }
 
@@ -59,4 +59,6 @@
 .about-company-image {
   padding-top: 160px;
   width: 49%;
+  margin-right: 150px
 }
+
