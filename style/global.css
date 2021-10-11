@@ -2,14 +2,14 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  
+
 }
 
 body {
   font: 400 18px/1 'Roboto', 'sans-serif';
 }
 
-a{
+a {
   text-decoration: none;
 }
 
@@ -19,11 +19,10 @@ a{
   height: 100%;
 }
 
-.default{
-width: 189px;
-height: 32px;
-color: white;
-background: #111B47;
-border-radius: 2px;;
+.default {
+  width: 189px;
+  height: 32px;
+  color: white;
+  background: #111B47;
+  border-radius: 2px;
 }
-

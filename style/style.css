@@ -1,9 +1,7 @@
 .content {
-text-align: center;
-padding-top: 150px;
+  text-align: center;
+  padding-top: 150px;
 }
-
-
 
 .title {
   font-family: Roboto;
@@ -20,47 +18,47 @@ padding-top: 150px;
   font-weight: normal;
   font-size: 16px;
   line-height: 26px;
-  color:#6F7CB2;
+  color: #6F7CB2;
   padding-top: 16px;
   padding-bottom: 36px;
 }
 
-.title-price{
+.title-price {
   font-family: Roboto;
-font-style: normal;
-font-weight: 500;
-font-size: 50px;
-line-height: 66px;
-color: #222F65;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 50px;
+  line-height: 66px;
+  color: #222F65;
 }
 
-.text-price{
+.text-price {
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 26px;
-  color:#37447E;
+  color: #37447E;
   padding-top: 5px;
 }
 
-.text-under-price{
-font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-font-size: 14px;
-line-height: 24px;
-color: #5D6970;
-padding-top: 60px;
-padding-bottom: 13px;
+.text-under-price {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #5D6970;
+  padding-top: 60px;
+  padding-bottom: 13px;
 }
 
-footer{
+footer {
   background-color: #E7ECFF;
   margin-top: 177px;
 }
 
-.footer-first-block{
+.footer-first-block {
   align-items: center;
   display: flex;
   justify-content: space-between;
@@ -68,16 +66,16 @@ footer{
   padding-bottom: 40px;
 }
 
-.footer-text{
-font-family: Roboto;
-font-style: normal;
-font-weight: 900;
-font-size: 26px;
-line-height: 38px;
-color: #37447E;
+.footer-text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 26px;
+  line-height: 38px;
+  color: #37447E;
 }
 
-.footer-second-block{
+.footer-second-block {
   border-top: #5D6970 solid 2px;
   align-items: center;
   display: flex;
@@ -85,25 +83,25 @@ color: #37447E;
   padding-top: 20px;
 }
 
-.footer-container{
+.footer-container {
   max-width: 1200px;
   margin: 0 auto;
 }
 
 
-
 .footer-menu a {
-margin-left: 60px;
-font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-font-size: 14px;
-line-height: 24px;
-color: #929ECC;
- 
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #929ECC;
+}
+
+.footer-menu a+a {
+  margin-left: 60px;
 }
 
 .footer-img img {
   margin-left: 30px;
 }
-
