@@ -25,9 +25,6 @@
   padding-bottom: 71px;
 }
 
-.design-build-explanation{
-  margin-right: 107px;
-}
 
 .design-build-titles{
   display: flex;
@@ -35,5 +32,10 @@
 }
 
 .titles-block{
-  margin-right: 30px;
+  margin-right: 100px;
+  margin-bottom: 50px;
+}
+
+.design-build-people-img{
+  margin-right: 100px;
 }
